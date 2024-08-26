@@ -1,0 +1,8 @@
+package env
+
+const (
+	API_KEY        = "API_KEY"
+	ENTITY_SECRET  = "ENTITY_SECRET"
+	CIRCLE_API_URL = "CIRCLE_API_URL"
+	PUBLIC_KEY     = "PUBLIC_KEY"
+)
